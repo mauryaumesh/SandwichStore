@@ -22,7 +22,7 @@
 			<p>Free Home Delivery</p>
 		<h1>Quality F<span>oo</span>ds </h1>
 		<h2>Taste of the Week</h2>
-		<h2>My name is umesh maurya </h2>
+		<h2>My name is umesh maurya . </h2>
 		<a href="#" id="order">Order now!!</a>
 		<a href="#" id="dis">25% Off Hurry!!</a>
 	</div>
